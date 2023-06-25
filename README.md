@@ -1,7 +1,13 @@
-# Smart_English_Website_Jatiuwung
+# Smart English (Jatiuwung) Website
 
-Preview (v1) : https://smartenglish-test.netlify.app/
+> Copied from original private repository due to unforeseen circumstances
 
-v2: https://smartenglish-test-v2.netlify.app/
+Latest public-side preview: https://smartenglish-test-v2.netlify.app/
 
-v3: https://prokon4.desainweb4c2.com/v3/
+Visit CMS page by adding `/admin` sub-directory (access using local only)
+
+Built using:
+
+- CodeIgniter 4
+- MySQL database
+- Bootstrap 5
