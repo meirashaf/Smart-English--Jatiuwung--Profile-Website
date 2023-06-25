@@ -1,0 +1,56 @@
+*{
+	font-family: 'Inter', sans-serif;
+}
+
+#activeNav{
+	border-bottom: 3px solid #06B6D4;
+	width: 80%;
+	left: 10%;
+	right: 10%;
+}
+
+#login{
+	border: 1px solid #06B6D4;
+	color: #06B6D4;
+}
+
+#register{
+	background-color: #06B6D4;
+}
+
+#hero img{
+	position: relative;
+	filter: grayscale(100%);
+}
+
+
+@media only screen and (max-width: 1920px) {
+	#caption{
+		font-size: 64px;
+		z-index: 100;
+		position: absolute;
+		top: 35%;
+		left: 15%;
+	}
+	#captionReg{
+		font-size: 24px;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	#caption {
+		font-size: 24pt;
+		z-index: 100;
+		position: absolute;
+		top: 10%;
+		left: 15%;
+	}
+	#captionReg{
+		font-size: 12pt;
+	}
+}
+
+#cardPrograms{
+	border: 2px solid #06B6D4;
+	border-radius: 8px;
+}
