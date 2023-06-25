@@ -1,6 +1,6 @@
 # Smart_English_Website_Jatiuwung
 
-Copied from original private repository (copied due to unforeseen circumstances)
+Copied from original private repository due to unforeseen circumstances
 
 Preview (v1) : https://smartenglish-test.netlify.app/
 
